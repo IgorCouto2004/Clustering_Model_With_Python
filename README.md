@@ -8,7 +8,7 @@ Os que são pequenos compradores, que fazem compras de baixo(a) valor/quantidade
 
 Os que são os compradores regulares, que compram uma quantidade média de produtos, sendo eles 40% dos consumidores totais;
 
-E por fim os que são compradores de alta quantidade e valor, sendo eles 12$ dos consumidores totais.
+E por fim os que são compradores de alta quantidade e valor, sendo eles 12% dos consumidores totais.
 
 Podemos concluir que a melhor campanha seria:
 
